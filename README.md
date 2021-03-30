@@ -12,12 +12,12 @@ body{
     }
 h1{
    margin:10px;
-   font-size:15px;
+   font-size:12px;
    color:#4682B4;
   }
 h2{
    margin:10px;
-   font-size:14px;
+   font-size:12px;
    color:#4682B4;
   }
 p{
