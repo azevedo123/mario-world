@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
@@ -7,22 +7,22 @@
 <style>
 body{
     margin:0;
-	 padding:0;
-	 background-color:#87CEEB;
-	}
+    padding:0;
+     background-color:#87CEEB;
+    }
 h1{
    margin:10px;
-   font-size:2.0em;
+   font-size:15px;
    color:#4682B4;
   }
 h2{
    margin:10px;
-   font-size:1.8em;
+   font-size:14px;
    color:#4682B4;
   }
 p{
   margin:10px;
-  font-size:1.0em;
+  font-size:12px;
   color:#4169E1;
  }
 
@@ -51,7 +51,5 @@ A trilha sonora do jogo foi composta por Kōji Kondō, e todos os cenários poss
 
 
 
-</body>
-</html>
 
 
